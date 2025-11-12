@@ -1,0 +1,40 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+docker/
+*.csv
+core/
+*.pdf
+opensearch/
+
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.*
+
+# Pytest
+.cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Docker
+docker-compose.override.yml
+
+# Local data / experiments
+/mnt/data/
+experiments/results/
+datasets/*.parquet
+docker
