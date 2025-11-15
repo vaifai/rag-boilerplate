@@ -12,9 +12,9 @@ pip-wheel-metadata/
 dist/
 docker/
 *.csv
-core/
 *.pdf
 opensearch/
+.idea/
 
 
 # OS

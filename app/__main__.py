@@ -4,21 +4,33 @@ Usage: python -m app
 """
 
 from dotenv import load_dotenv, find_dotenv
-import os
-
-load_dotenv(find_dotenv())
-
+from fastapi import FastAPI
 from app.core.config import settings
+import os
+import logging
+
+logging.basicConfig(level=settings.LOG_LEVEL)
+logger = logging.getLogger("rag-boilerplate")
+
+def create_app() -> FastAPI:
+    app = FastAPI(title="RAG Boilerplate (Opensearch API)", version="0.1.0")
+
+    @app.get("/health", tags=["health"])
+    def health():
+        return {"status": "ok", "env": settings.APP_ENV}
+    return app
+
+app = create_app()
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("app.__main__:app", host=settings.HOST, port=settings.PORT, log_level="info", reload=settings.DEBUG)
 
 print("=" * 50)
 print("RAG Playground - Configuration Test")
 print("=" * 50)
-print(f"MongoDB URI: {settings.MONGO_URI}")
-print(f"MongoDB Database: {settings.MONGO_DB}")
-print(f"Qdrant Host: {settings.QDRANT_HOST}:{settings.QDRANT_PORT}")
 print(f"OpenSearch Host: {settings.OPENSEARCH_HOST}")
 print(f"OpenSearch Index: {settings.OPENSEARCH_INDEX}")
-print(f"Embedding Model: {settings.EMBED_MODEL}")
 print(f"Environment: {settings.APP_ENV}")
 print("=" * 50)
 print("✓ Configuration loaded successfully!")
