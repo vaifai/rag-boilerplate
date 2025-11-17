@@ -23,5 +23,10 @@ class Settings(BaseSettings):
     CHUNK_MAX_WORDS: int = int(os.getenv("CHUNK_MAX_WORDS", 140))
     CHUNK_OVERLAP: int = int(os.getenv("CHUNK_OVERLAP", 30))
 
+    # Embeddings
+    OLLAMA_API_URL: str = os.getenv("OLLAMA_API_URL", "http://localhost:11434/api/embed")
+    OLLAMA_EMBEDDING_MODEL: str = os.getenv("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text:v1.5")
+    OLLAMA_EMBEDDING_DIMENSION: int = int(os.getenv("OLLAMA_EMBEDDING_DIMENSION", 256))
+
 
 settings = Settings()

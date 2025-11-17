@@ -6,6 +6,7 @@ Usage: python -m app
 from dotenv import load_dotenv, find_dotenv
 from fastapi import FastAPI
 from app.api import index as index_router
+from app.api import ingest as ingest_router
 from app.core.config import settings
 from app.clients.opensearch_client import create_opensearch_client
 import os
@@ -24,6 +25,7 @@ def create_app() -> FastAPI:
         app.state.opensearch_client = create_opensearch_client()
 
         app.include_router(index_router.router, prefix="/api/index", tags=["index"])
+        app.include_router(ingest_router.router, prefix="/api/ingest", tags=["ingest"])
 
     # Shutdown event
     @app.on_event("shutdown")
