@@ -51,8 +51,12 @@ def ingest_csv_to_index(request: Request, csv_path: str, index_name: str, doc_id
         doc_id = str(row.get(doc_id_col) or uuid.uuid4())
         title = row.get(title_col, "")
         category = row.get(category_col, "")
-        text = str(row.get(text_col, "") or "")
-        if not text or len(text.strip()) == 0:
+        text_value = row.get(text_col, "")
+        # Handle pandas NA/NaN values
+        if pd.isna(text_value):
+            continue
+        text = str(text_value or "")
+        if not text or len(text.strip()) == 0 or text.lower() == 'nan':
             continue
         chunks = simple_sentence_split(text, max_words=settings.CHUNK_MAX_WORDS, overlap=settings.CHUNK_OVERLAP)
         for c in chunks:

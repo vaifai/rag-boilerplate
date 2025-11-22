@@ -26,6 +26,11 @@ opensearch/
 
 # Pytest
 .cache/
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+.hypothesis/
 
 # Jupyter
 .ipynb_checkpoints

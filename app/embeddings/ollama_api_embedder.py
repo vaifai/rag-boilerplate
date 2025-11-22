@@ -36,6 +36,8 @@ class OllamaAPIEmbedder:
 
     def embed_batch(self, texts: List[str]) -> np.ndarray:
         # naive batch (one request per item). Change to batched API if your Ollama supports it.
+        if not texts:
+            return np.array([], dtype="float32").reshape(0, self.dimension)
         vecs = []
         for t in texts:
             vecs.append(self.embed(t))

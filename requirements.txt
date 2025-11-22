@@ -19,9 +19,12 @@ pydantic-settings
 python-dotenv
 pytest
 pytest-asyncio
+pytest-mock
+pytest-cov
 httpx
 pymongo
 faiss-cpu
 opensearch-py
 tqdm
 python-dotenv
+responses
