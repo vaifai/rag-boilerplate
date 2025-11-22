@@ -28,5 +28,9 @@ class Settings(BaseSettings):
     OLLAMA_EMBEDDING_MODEL: str = os.getenv("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text:v1.5")
     OLLAMA_EMBEDDING_DIMENSION: int = int(os.getenv("OLLAMA_EMBEDDING_DIMENSION", 256))
 
+    # Retrieval and Search
+    OLLAMA_GENERATE_API: str = os.getenv("OLLAMA_GENERATE_API", "http://localhost:11434/api/generate")
+    OLLAMA_GENERATE_MODEL: str = os.getenv("OLLAMA_GENERATE_MODEL", "llama3.2:latest")
+
 
 settings = Settings()

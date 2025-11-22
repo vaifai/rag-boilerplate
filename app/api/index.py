@@ -40,7 +40,7 @@ def create_index(req: CreateIndexRequest, request: Request):
                     "dimension": dim,
                     "method": {
                         "name": "hnsw",
-                        "space_type": "l2",
+                        "space_type": "cosinesimil",
                         "engine": "faiss",
                         "parameters": {
                             "ef_construction": 128,
