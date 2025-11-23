@@ -441,9 +441,33 @@ The index is created with:
 
 ## 🧪 Testing
 
-This project includes comprehensive unit tests covering all major components.
+This project includes comprehensive unit tests covering all major components, plus an end-to-end smoke test.
 
-### Run All Tests
+### Smoke Test (End-to-End)
+
+Run a quick sanity check of the entire RAG pipeline:
+
+```bash
+# Make sure the FastAPI server is running first
+uvicorn app.__main__:app --reload
+
+# In another terminal, run the smoke test
+source .venv/bin/activate
+python scripts/smoke_test.py
+
+# Or with custom parameters
+python scripts/smoke_test.py --base-url http://localhost:8000 --num-rows 10
+```
+
+The smoke test will:
+1. ✅ Check API health
+2. ✅ Create a temporary test index
+3. ✅ Ingest 10 rows from the dataset
+4. ✅ Run 4 test queries with different filters
+5. ✅ Verify search results and RAG answers
+6. ✅ Clean up the test index
+
+### Run Unit Tests
 
 ```bash
 # Activate virtual environment
