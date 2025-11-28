@@ -18,6 +18,10 @@ class Settings(BaseSettings):
     OPENSEARCH_HOST: str = os.getenv("OPENSEARCH_HOST")
     OPENSEARCH_INDEX: str = os.getenv("OPENSEARCH_INDEX")
 
+    # MongoDB
+    MONGO_URI: str = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+    MONGO_DB: str = os.getenv("MONGO_DB", "rag_playground")
+
     # Ingest
     BATCH_SIZE: int = int(os.getenv("BATCH", 64))
     CHUNK_MAX_WORDS: int = int(os.getenv("CHUNK_MAX_WORDS", 140))
