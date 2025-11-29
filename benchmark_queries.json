@@ -1,0 +1,3302 @@
+[
+  {
+    "query": "What are design patterns in software development?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "53609a80-af6a-486d-82c6-51be61567c67",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "24c923dd-7d3c-445f-bc9f-c25bb9a58bc9",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "8e022be1-7a00-4bf2-8dd6-59691a54ef27",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "55e0753c-9cfe-4065-a83b-66bd65891a18",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "49f508d9-905e-4a15-98b6-c9bf2798d83d",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "7a0dd0bc-47cb-4d28-aab8-199b133edb46",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "b3663ffa-3ada-4f0d-b6eb-9ebd1f0cf53d",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "3008c960-12da-4b3e-b763-591299b57758",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "13f81456-17ce-4f19-92b1-955b4f20c906",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "b966e6cb-4b07-4ac7-9c28-23c1d5efb353",
+        "title": "Design patterns overview",
+        "category": "programming",
+        "relevance_score": 21
+      }
+    ]
+  },
+  {
+    "query": "How to write clean Python code?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "1193d00f-655f-4e6e-92e2-846a051d807d",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "7d1a06b7-6c75-4020-b05b-3573f457cb63",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "fd703c9e-a0c5-4c2b-9a3d-04893c925548",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "3366305e-02fe-45ef-91a9-2b835e1f0701",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "23eaa95a-929e-4fb5-b68f-ac61c35741eb",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "5b273c7b-ec15-4518-a104-d3c95ebf436d",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "75a83a5a-104a-4159-8f9a-2e9b8bab23be",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "5ea78406-29cc-43a1-845d-98a707a15c7c",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "bd2294d0-d1a6-4c42-a859-5a5b90778cb0",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "7c7b348e-de22-444c-9886-56f8ab021761",
+        "title": "Writing clean Python",
+        "category": "programming",
+        "relevance_score": 21
+      }
+    ]
+  },
+  {
+    "query": "Explain unit testing strategies",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "834ff6d2-25d2-4e76-9ccd-004b49bee01d",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "4e849b3f-66f4-43e5-bef1-5288c50efe0f",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "d20101df-7505-4588-91ba-91004b27248c",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "75527a30-3130-470c-8b84-bf9285d5e986",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "f7e4128c-008a-4732-ad26-586b9a3840f3",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "06531259-6f66-4ce9-955f-e9c96f623ef2",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "4478f525-467e-4821-b590-a9799c64acbd",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 20
+      },
+      {
+        "doc_id": "b14dc2e8-87a3-4e17-9899-7edc738edf43",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 20
+      },
+      {
+        "doc_id": "665f404a-1f35-4540-b3cd-cb1927496587",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 20
+      },
+      {
+        "doc_id": "4a1773ab-6bcb-4955-ae35-7532f84f3a82",
+        "title": "Unit testing strategies",
+        "category": "programming",
+        "relevance_score": 20
+      }
+    ]
+  },
+  {
+    "query": "What is continuous integration?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "d4a799d8-054a-4005-990c-4a71223573f0",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "ae749bac-1c5c-4aae-b773-93c630cdc6eb",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "87bd4140-0ec1-4685-8324-5b3a8c9c87f5",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "66b8c357-ed0e-4de3-9e5a-b672eead074c",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "452ed3fe-4c8c-4e75-94b9-2f030e003650",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "ac6c9689-884d-402a-8cb9-eed9c457c880",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "024883f4-c6ab-404b-8525-e7be809aacaf",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "d547864e-08cf-45ab-bc8b-d7f54fc3eccf",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "83fb081f-72c8-4ff4-8ba5-ba7a2aaf359a",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "18299da4-1b64-40d0-b6b7-8660d73f66e2",
+        "title": "Continuous integration",
+        "category": "programming",
+        "relevance_score": 10
+      }
+    ]
+  },
+  {
+    "query": "How to debug code effectively?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "50ccfa57-2020-4dee-a8f3-e0d8ddb0be3b",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "c15d13b5-3308-4331-a84a-0ab7fd0df7e8",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "909c9280-f1b4-4701-9d92-547f4bb3d1bc",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "06aa29a1-62c7-4843-ab00-fb1ec70b93f0",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "6d1a51ed-fa3f-4c00-93e3-03645ecec619",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "f217d14a-2796-4b72-974a-36fa8638bade",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "6a49071e-5cf1-422d-8ffa-14680b7b717a",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "12d2c1d9-fe7a-41d7-a4ce-1b874dd2fb5c",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "dd4855e3-e859-4740-b999-62a1c25fa5cc",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      },
+      {
+        "doc_id": "3a9a1d81-487c-4da4-a5e2-5f9ceef0cb6a",
+        "title": "Debugging techniques",
+        "category": "programming",
+        "relevance_score": 21
+      }
+    ]
+  },
+  {
+    "query": "Explain data structures and algorithms",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "afc8c635-3ce5-4483-b94d-4c96c1d6f11a",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f8afff08-f9c0-4032-acbb-0bf998ac8acd",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "12f21c6d-8c80-4947-a30f-4866afdd904a",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "22554e92-eb8c-45f6-985c-978d208b172e",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ad4e9aa1-ddae-44d6-8e92-de52f2120ce0",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "881e3ea4-2c60-485a-994a-d7fa252d5a3d",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cc57ca93-b573-411a-a30d-0afd6a526787",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d972b57e-f525-43a9-b4af-fd52b08625df",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e07dc8da-1473-4c28-bd4c-085daf947ec6",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c8788854-142c-44a1-91d0-2f57e9e1ee65",
+        "title": "Data structures and algorithms",
+        "category": "programming",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What are REST API best practices?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "ab5c15cb-3cca-4c79-a376-8445290bb663",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "92ff7c1c-fff7-4718-be6c-a38f849d90fe",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ecf94773-baf5-492b-a202-55e0f9494b41",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "aaed11b3-5f63-4b43-917a-50cb46e6938c",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4a4b17d5-0d34-45cb-96ad-e44406b9e5a9",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a399dce0-9eeb-41d8-8a65-c500aabc2bf7",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a0f1f4e0-820d-4c97-974b-fa95b3b443f6",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "26d0dc29-251a-4992-ba9d-02a6004b2987",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3f55147f-2f1f-49dc-a4be-ea525a3cde91",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a4891c63-9749-452b-ac7d-898ebdd3721b",
+        "title": "REST API best practices",
+        "category": "programming",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How does async programming work in Python?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "bbc4286d-8aac-4897-9ac8-c80b8e92d502",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b1330e59-e34d-47da-ab9b-de3b93497409",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e5466e47-5906-4195-b2c0-d28d65eccba0",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e9eea092-6f71-42be-835d-ab6bf3f20164",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b24731ea-fd1a-466f-8fc8-853fda34a457",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0f52a6d0-9aa4-43bb-b8ae-0ef214f0944b",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8ef0a357-21a4-48cb-a333-12f72dfc88e5",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "347e439e-3a2d-44bd-91e9-2f33623ef72b",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "88702e89-bd18-4dc5-b9ca-50dc55b344a9",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "20a617d6-eaa6-4149-8ed9-58bec7bb24d5",
+        "title": "Async programming in Python",
+        "category": "programming",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What is Docker and how to use it?",
+    "category": "programming",
+    "expected_top_10": [
+      {
+        "doc_id": "0d63a3c8-131c-4785-9572-c624993922c5",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e3025694-b0e6-46a6-a0fe-42f352f7ab17",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fc0e6754-40f4-472e-80bf-f2e5da49108e",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c6f342fd-b527-4b7e-be17-201f97b755d8",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "60120e13-12d1-4e89-9b2c-9ef068eca574",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "263e336c-92dd-4257-9ef1-197b870066eb",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5575ff1e-b1c5-4416-a90c-0f42544252b0",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "17ccdda7-815a-42f4-9189-ff1607adff28",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a8a219be-ac2c-4918-89cc-291418939ef3",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "21adf950-cf32-4d4c-aeb6-eb388b3f438c",
+        "title": "Docker basics",
+        "category": "programming",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What is retrieval augmented generation?",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "1fb0780e-d94c-4d3c-b3c1-191f533266ad",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "67ebf7ac-d7e5-4bd7-808d-dc4c03301bfa",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "88bb6081-4451-42c6-82ad-6ee761f68bbd",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "49e21291-e90e-4dd8-ac05-f559d6a03471",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "30efba71-16fd-43a4-97e1-81c60f149e3e",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "f9318738-2d48-443e-b5c9-c96f425aca81",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "dd55fb81-4241-4356-8a31-54e1e5c40891",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "c47cc9ea-9410-4bf4-b446-2ef77fdc0a96",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "743926b0-eb70-480c-a798-6252bd481a68",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "d94b384b-c9b0-477c-a8f9-5004742e8dca",
+        "title": "Retrieval augmented generation",
+        "category": "technology",
+        "relevance_score": 11
+      }
+    ]
+  },
+  {
+    "query": "How do transformers work in AI?",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "481c433a-2fb4-417b-88a2-daf9123feca6",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6e819a84-ee7f-42b4-85d4-883cc662675e",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a55afdfd-c6ff-48c8-a6b1-e7342c18e27c",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b77491bf-0bca-4942-bc72-7ce0f9d5b30b",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "94878d5b-9879-4d88-aebd-f2acf5d8ad97",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ea2ee3f8-990e-4e7c-a4c2-30249910809a",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f140f0d5-373a-4753-9b73-8d7ad9b1b28c",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f666a4a2-e449-4276-bf71-b9d77ff872fc",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "097f148d-dde4-452d-b0a6-c7872bbf72d0",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6c8db4df-4ca5-432f-9b45-b434c8d8af69",
+        "title": "How transformers work",
+        "category": "technology",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Explain vector search and embeddings",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "b899456d-d9c0-4174-b9c6-fd536e6e94de",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "633f5099-575f-41ba-9c7a-943826ba053b",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "660bba88-77e9-454d-99e4-7154bea7bfee",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1ff327a5-785d-4e1a-ab83-78e5eba7b2dd",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e4db3bf6-62da-4d8d-9f98-e355b580ff3c",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fff62fe7-9315-4ed6-acbc-fe8c74c7b8d3",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a8deaab8-38d1-4de4-97c1-c17414355705",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "80011854-3a9b-42b3-8fef-b94875221a74",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "92b5374b-f38c-4884-9040-8cd6e8b763a6",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "91d0850c-305d-4c53-a657-89b9497d2830",
+        "title": "Introduction to vector search",
+        "category": "technology",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What are embeddings in machine learning?",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "8307fc7f-2675-4f78-ab97-f8afcbc2a2dd",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1611dc16-ce60-4308-8a58-1069db0eb950",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ce2c70f2-eee4-409a-b4c7-5f45d5fbe67f",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "23ab818c-d537-4503-bdd6-ab4c8b1b22fc",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "821f1dc1-24e7-4acd-94c7-8f406f44f3f3",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7254a8cf-87a0-4675-806f-251b3b0f2586",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "82fec414-3bcc-4233-9cc2-1ec91b64cb64",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d0edcdeb-4749-4a11-8a53-c32f5354490f",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6e113122-fd25-4ce9-9dc8-1e485769fd83",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5548d8aa-4e3b-4a10-8879-a4afb89331c4",
+        "title": "Embeddings 101",
+        "category": "technology",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to scale LLM inference?",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "f847af70-1d9d-4991-b402-1a5a6bd05938",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bcd3b40c-9f4c-4777-9d0c-9f4c2173c478",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0b4c6be8-6388-430c-b8f3-22db64df44b3",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c56b45c6-8d45-4cb8-b486-9743ca382664",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cc5f08c0-085f-48ba-9ce1-28da91fde0f8",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e369c9d6-f847-4967-83d0-b6970c26a690",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8820ab09-4b36-4512-8cdd-cd2e8c9a86db",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "09ec468e-b345-4067-81e1-c2b16682c73a",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "898043a3-c40a-4d03-a47f-d10ab5b92b61",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6b7b87cb-f391-47be-a6ca-565309be3a77",
+        "title": "Scaling LLM inference",
+        "category": "technology",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Dense vs sparse retrieval methods",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "86b0d4dd-9dcd-414f-9e00-923e959fdede",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "40e19afd-2dff-489d-85c9-f57d3f7ad90b",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "ba23f248-a8e0-469f-8068-25ef1150a8c3",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "f13936ae-c731-4364-aee3-2188b375948d",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "b6132f68-744d-40a4-8f39-77d2d707147a",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "23120e39-be4d-451d-bc55-3b4064ffc8bc",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "d733142f-ee2b-4fe2-9cf6-c86510d6e664",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "aa8d1f06-9861-4ebe-a5a7-8e4d216a2933",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "1b07ef86-0506-4c31-93fa-eb9c7dcce364",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      },
+      {
+        "doc_id": "34bf11cf-09fa-4b1b-bde4-07d90f8b6ff6",
+        "title": "Dense vs sparse retrieval",
+        "category": "technology",
+        "relevance_score": 33
+      }
+    ]
+  },
+  {
+    "query": "What is fine-tuning vs prompt engineering?",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "9a32a260-f868-4f32-8930-1a8b114ea5a4",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ec07718e-23d3-4705-bd02-ad2de9f83d41",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "49107fc8-ace9-4b54-8912-1bbface16771",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e3fe2fe0-2a34-42a3-9a21-d27e9348da95",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fad56918-a56a-4fa2-b649-94b83fc07e2b",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "950aaf6d-02d0-4f55-bda2-2b0533999371",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e5b42bbc-0d6a-454f-a883-77a4898fc6a9",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "244dfc56-b051-4e9a-bb12-2a7c7834cb81",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c6960076-38b2-4ab2-a862-b91c7fbae742",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cafdee0f-3385-4a22-ad9a-15daba98fcf2",
+        "title": "Fine-tuning vs. prompt engineering",
+        "category": "technology",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to evaluate LLMs?",
+    "category": "technology",
+    "expected_top_10": [
+      {
+        "doc_id": "61f87a9d-4154-470f-96c7-a9d946512344",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fcba3d12-6f43-4a83-87e0-3ee80fae2478",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d789d9c3-7689-4e98-a803-c4f459b719cd",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6efb63d7-6bbd-434b-8a17-1c1d60393365",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6c46759b-5c42-46f8-a321-efdf3fa1945b",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5e03976a-96cd-49b4-8183-4e7d92088b7e",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1e31d194-fb05-4719-817e-5a48d26333cc",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "157fabc9-225d-44eb-9d69-289fdb5e08d4",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0059e34b-1203-43f0-b818-ab3459f97d36",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1c76a450-ee3e-4f7f-9582-e0cd322ac7e1",
+        "title": "Evaluation of LLMs",
+        "category": "technology",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to create passive income?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "71b27c87-2000-414a-aa2d-34e748dd0004",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9c45eb14-7ec9-4dda-b35b-3f7116509a45",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8e5c7038-d11c-4101-8542-06ad2ab9ae19",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e6466e06-e4a9-4fbb-a5c6-021529f7563d",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8f524772-7d8b-4434-85c6-48c386729bf8",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4b4b70e7-0bcc-4f24-8ed3-53ced0e13d73",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c2939116-6ffc-4fa2-a3ac-28024a1de19a",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d6d579bc-6de0-4e9b-9fc8-122ebc9e0eba",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "2b3ec625-af7d-429e-b9f6-aa77730cabbf",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a2aa80ce-0e0c-4f91-9147-d0890a2a3746",
+        "title": "Passive income ideas",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What is budgeting and how to start?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "ad8adb64-6152-4f69-bb2c-7a313417829f",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "92dda3ea-6bb8-4554-801c-ac7628c6e6be",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "522fbcf6-4eb7-4a07-a395-76098b8d5268",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bc9f19b2-fde3-47da-8d0c-0a39bcd7f667",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1496ace6-4596-48e2-9be0-05e2d3880176",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a23c222e-6173-4dcf-9503-2c59efc61a36",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c1ca566a-af5b-483f-8482-b2b5de5527de",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "61b947f8-b709-44ae-af7e-f0cb4d206bad",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "026f30dc-2647-4f77-8538-ff774a90be36",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "45455b0a-93c4-4bbf-8ab4-4324f8606c63",
+        "title": "Budgeting 101",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Explain mutual funds for beginners",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "c44a12fa-7f23-411b-bab6-cd33a2bccd7d",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "2255e24b-9d3e-43e9-badb-32131db29647",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f6f0dce6-d180-4dae-8ac6-a6a1df1ad6d8",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "17523988-5f8e-4b7d-a140-c46b1e62d8b7",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "010e8217-1101-4784-b29a-930d46ab02ed",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4cbe6ef7-0326-4cbb-b1df-93c9aa34df48",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "69aea8ef-c95e-4cea-bbc8-ef06bdd839e6",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e2b4aecb-bc69-43df-92ad-863ddec32e52",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7701ea2a-dbbe-4f23-8335-30d8aca8e92f",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8c80cbf8-9426-411a-82aa-a5f8a3428f8a",
+        "title": "Understanding mutual funds",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to set financial goals?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "d9376024-0476-4db4-a0b1-481982615700",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "321e09ba-30c7-4214-a7b1-536ccf2caa52",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "dd3a42a0-9095-4be8-9977-b3759188502f",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9112b781-21fa-4e50-b98e-1fe62a1d8d4b",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "671b8aaa-c308-41dd-8d15-9a56fe9adec8",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5311a4e4-0927-448d-acde-fde5b90ed6ab",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9e97840f-51f2-486f-8b8d-3b660f495b60",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b4c97a81-95e1-46a7-9ab2-1342a30f31f1",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bb0e27e7-21a9-4d72-a128-05429fbc9b52",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "87dd5b42-b673-4ad2-afce-b3ff57ee5dc7",
+        "title": "Financial goal setting",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What are emergency funds?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "8ad32e99-44b1-4fa7-aba7-c7d7804e24ac",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "cfef4096-db68-4063-91ff-fd2f919fde7f",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "ab3e7d7d-7e17-46f5-865c-93334281d7d7",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "d75987aa-e1e3-4e3e-86fb-969fa2c169dc",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "e12a51ea-7e29-4af2-ae48-7591f55862ae",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "6db210fe-043c-471b-ba49-1a1fa5622a2e",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "ba982567-8639-4be3-bf62-ef9503fcaafd",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "c120ae4b-22dd-4725-b4ac-9d8d5d2e8874",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "223986eb-d1f5-40fe-8a2b-38bb0308feca",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "60a81324-6a0e-4d07-816c-27ae240880aa",
+        "title": "Emergency funds",
+        "category": "finance",
+        "relevance_score": 11
+      }
+    ]
+  },
+  {
+    "query": "How does the stock market work?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "76ef57e3-987a-4c25-ae14-687d6cfa19ab",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "031712ac-b8c6-4611-bd8a-7faa12a1bf5b",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "44b020ac-2c7b-46fb-bf25-9a43fe837508",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "84638076-82ad-4022-a1c8-dbfb33b1bf69",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4f64aaf7-33ef-490d-b4ea-400d6dad3329",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "43324619-76ac-4b72-99d2-e8161c73e3f1",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4b18d848-31b3-4067-bb39-290314f48a16",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "74378cfc-1ca9-4851-a1da-35a73df798ec",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "72ee7370-99e7-4514-819d-bda46b334ab5",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "301b3911-e715-4d75-9a93-cc40c01cf106",
+        "title": "Stock market basics",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Explain credit scores",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "05c87d15-1571-4839-87b5-0f04dd2e5dd5",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bc394101-6ddb-4371-9fec-46e379a459ec",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5b511a56-4ea8-49d8-ae53-9b4dd14c5787",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "730b8cb9-a7e3-447d-8431-2b22a7aa9683",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5506b266-a62f-47c1-9b4a-8babe5d165e9",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "2ea702b8-c5b6-491c-95c4-a435258698f1",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ef0b4ca1-41a5-4b82-85ee-28c90293576a",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "042f218f-3198-4c73-85dc-67b33f309931",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "54de01d5-dec9-4637-ac05-d8b28a0c5cdd",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "78c5539a-aa94-4a74-bfdc-e7c747dd2d41",
+        "title": "Credit score explained",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Tax tips for freelancers",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "139eb7c7-df24-4015-a446-06e975810a0f",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5b9b02c5-95f3-4058-946e-4727fc53ffc3",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3a3bc2bc-78ed-4b05-912f-5ea8d3b07e90",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "055e1b18-475e-4df9-b463-814ddbc22d9a",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3a962a74-85fc-4c4e-b742-625f01b6bc05",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "65fd3adf-7676-46db-b4c7-53e470dc9ef0",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "303ebe2e-83eb-4f9f-b45a-65613d3c362f",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9b292c3d-bbe3-4111-b902-9c619080b730",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7fbddf78-2624-4faa-b092-bf61eaec40fa",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b20a919d-611c-43b5-8eb8-3a10d0cdde0c",
+        "title": "Taxes for freelancers",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to start investing?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "df1430c6-c292-4fe8-813d-d5b7ee977e81",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ff9ca8f1-8053-4716-91cc-616c25716a6d",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1fe0849d-94d2-417a-9ad7-223453f35a82",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a295d35b-d506-466a-b688-c543a6669384",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cb2bf441-72cb-4146-b6de-28be592fd7a5",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a3e49064-6133-493d-9d8b-02e4a5c49272",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b34899f1-352a-4c89-a9b6-eb8c9d538ba2",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ac6478b5-d11c-4411-b568-e32aadcd546e",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e17f86fc-c618-4014-926d-f341cc084526",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "30b89465-1f85-4cf0-a77e-878cfb9413db",
+        "title": "Investing for beginners",
+        "category": "finance",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What is retirement planning?",
+    "category": "finance",
+    "expected_top_10": [
+      {
+        "doc_id": "4490ede9-3322-43dc-a749-4877d7587acf",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "cef80bb4-71c4-4aef-a0b2-8c2d36275364",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "cb1ffa48-c0c3-4f6c-9f61-7988cbb5553a",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "2145a533-5041-43b3-895d-cd675d60641a",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "65698000-cbf6-4f30-9a90-e39585d77950",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "c97bee86-8ea6-4dc9-846e-5056887fcb1e",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "0e5267d5-b042-45f6-86c7-221dfabe782a",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "057423bf-011b-47ee-a72f-192c45b205ea",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "0d46bb32-b821-41cc-85da-194f80ffa394",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "78ac6906-c944-48d8-ad41-f567313ab8ab",
+        "title": "Retirement planning basics",
+        "category": "finance",
+        "relevance_score": 11
+      }
+    ]
+  },
+  {
+    "query": "How to make perfect dosa batter?",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "a59e69b9-eff8-462f-a775-d4a4bd41b1ac",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a31a9c88-cb4c-4e3d-bc69-3db122ec62b0",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0c9f0c41-e9c7-4f73-8526-ef804b0c8b19",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "da05757c-3f1e-4556-a2ef-d939d1f1a5bf",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ba49e338-d2d4-480e-a71d-b94e63716d04",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "85a0f01c-eb8f-4481-b23a-d547beae92c6",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "65a124db-d9d2-4974-bc95-ffa6d213d6ba",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5345a998-ce99-464b-9513-2a3c7e5375b0",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6f417ea1-be43-4fe5-8e46-f5f3c5770258",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "36866929-0758-4516-b84d-57a931621699",
+        "title": "The perfect dosa batter",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What are spice blends and their uses?",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "93abea0c-738f-4601-b480-1bb0bec8fb2c",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4435e882-62c2-4130-9a7a-4d7589ec7c2a",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "24df702d-0a93-4048-a220-b5930b01758f",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "2ebfdb87-344f-489f-a372-3bc1ae4d9663",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "18148cf5-ebfc-4583-96c5-b457751ac299",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "67d2324e-8cde-4319-91ac-f8991029823e",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f540385e-505b-42ff-9dc8-adaa45b3c872",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7e2d3250-35ae-4942-8c34-f56706f1e44a",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "46b9e689-ff92-439e-8555-12541c7a5f42",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9b1fff06-0fbd-4ebb-99b9-0e822b970f9c",
+        "title": "Spice blends and their uses",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to make sourdough starter?",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "df311b0c-916b-4278-aac0-52238f14799d",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b87d0d5c-360b-42f7-864e-76962058ab12",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8c82084f-1d03-457d-b986-c8711fba7f35",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "95893d75-be6b-4728-80cf-4cd11ac97efe",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "de508927-b606-4643-9e95-0e5a6c88c011",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d55b0fc2-4dc4-49dc-80b9-fcdd580d7e16",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "774a8a5f-8d02-4095-942f-c63eca62a3da",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e18e6522-5ca7-4071-959a-c8484ec05cc8",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "96c9355a-c448-49aa-95bc-e00a4c3e8e46",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0f912871-0a5b-487f-ac46-47b232d4b8ce",
+        "title": "Sourdough starter for beginners",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Explain fermentation basics",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "f8728089-a6cf-4356-9a7e-46787a6309a6",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "68d7a855-aec6-4f11-aacf-bc7b0f6e1cbd",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "2caff1ba-d758-41d8-bbad-6763e42a6b03",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8d2a39be-2f4e-4db2-bb81-28fde6df45b3",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fad9abc3-ec6d-48a1-b89a-27cf8af8f9c6",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e9b0c1ff-9f75-465b-bf3d-e8d8af5af0d7",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d8beae08-60c7-4228-9178-5acba6196d2f",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5a1d8bf0-de03-4542-bf4b-081cc7b56b70",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1fbf713f-4853-49dd-a7f3-c74b7df48030",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7bb42d81-e37c-42f1-af41-5cb7e2fb1826",
+        "title": "Fermentation basics",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to brew chai tea?",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "a341e9ac-8112-40ca-ad7b-45e9c4f6674b",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5382ded9-d654-409b-ad20-a4f62cbe727d",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "080b7a4f-026a-4333-a4f7-700f60f7d618",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "94a97292-efc0-4f48-acc3-f1c679b15589",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "42fef40b-7740-41d7-9ec1-91a44e12a769",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bd3a02ed-1548-404c-a257-dc6f9242cdbf",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "39df69ac-670a-42fa-8ca9-a37f48aa2fb5",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a8383ee1-77ef-40c7-8d53-7d55cbbdfcc9",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "66b3059b-733c-4a93-b060-0352da96d4fc",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ed36b6af-fe09-48ef-b0d5-810cdf474c73",
+        "title": "How to brew chai",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Indian street food classics",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "923f2421-b3ef-4086-886e-08266086decd",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c43c0bd0-573d-4f35-988d-de064118fada",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "36d9b6c8-e3d6-4638-abb4-60d1c298b7dd",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "19062f71-4474-4755-ba84-b0d02c7f1d93",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b9d3fc1b-ac20-44f0-b1fa-c8357670587f",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4659f43b-2c74-42e0-9a21-d597ac436ad3",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d4320537-c217-45a1-bbb4-e53e358350b4",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "47c4d92c-3c3d-4cf4-8a93-f0e04dca7ed3",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d0a24c23-e6d5-4f2a-b128-427319a12994",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b1791458-8cca-4af4-bf88-9f1a36b6c90a",
+        "title": "Indian street food classics",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to make paneer at home?",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "0901fb20-ce53-4805-a52c-f956e6965cba",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cc81062c-3034-434d-aec4-fac8c7d88750",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "48875111-4005-45ae-b3f7-5bc4b54863ea",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "547752ee-f188-4c2b-9a97-463991edce33",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d9f42893-9cbc-4cc7-878c-a889ec1a1322",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bc0a39e0-6397-4d5f-8a0d-b3ee0395ae25",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "98159ea7-b23d-4a8a-8b23-985f0e7b31ff",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c06bb1d7-6af1-4ce8-8ce9-662746def835",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fdc60bcf-4d4e-4f2b-a4c7-c29c122a2fc1",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "47d3b2e8-f2ba-4949-b3f8-452987677ad9",
+        "title": "Making paneer at home",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Healthy smoothie recipes",
+    "category": "cooking",
+    "expected_top_10": [
+      {
+        "doc_id": "ce438058-baad-4c32-b2c8-58db4a161445",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bb8d09c3-b68b-46ab-b333-5a884ecd861a",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "59dfcfa6-e3b9-459a-b759-a1629cba8539",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "76888e9e-376c-4f0c-9ba3-41109ac6ab53",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "065b120b-94a2-4259-9cb8-4cdeef8539fd",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "490529df-308a-4b22-9368-6fb951120ea0",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7ab1e842-0511-4008-a244-48454645f874",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8cba78b8-55f0-4608-b392-93cdefdc4d7c",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "94e538b2-d558-4a73-b403-4460d140e173",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "687f4c73-a3c2-4b9a-b0bc-0df8ca8b1132",
+        "title": "Healthy smoothie recipes",
+        "category": "cooking",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What are yoga poses for beginners?",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "ca9e8fad-109f-4c26-bddb-15f1c84c553d",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0a3a5fde-674c-4442-a69b-edf7b6bea16c",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "612e2b49-071d-41f8-a64c-96bdd728d330",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "458ccb89-a9f7-439b-b733-3cf095504a67",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "62d3fdd2-47bb-4cf7-b983-aac0f2bd0e3f",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "067bcd39-23ff-4d5e-b942-d0cdcb486b7a",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c73ecebd-5f79-4d77-bd83-a34fb3c8c91a",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "68878847-5021-4f3b-bd63-f2da42087be6",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f7b461c7-1cea-433f-8673-9045f2df9c77",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "94da209f-01d5-4bd1-8077-ae6978d701d4",
+        "title": "Yoga poses for beginners",
+        "category": "health",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Explain macros in nutrition",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "e31c7ecb-aca6-42d4-8751-d30afb2c3a4c",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "821885a8-011d-4090-839a-fe62987d97c3",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3c2592ee-75dc-4c0e-a065-8f981c66b1c2",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "eaed8867-b771-4943-9820-511fee2e7cc6",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5480841a-c9c7-4897-be7f-7d93b3a6940b",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b11e3f35-819c-4551-ad51-96eeed36b6b3",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ce9e24b8-b115-4a37-a574-a3fb301131be",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "322eabee-3f24-4b15-8ee2-9e8cc49edf93",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c69874fe-3400-452f-b917-3b3cd30d8183",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "316dc125-4cfc-4e7e-8013-469ffd9c4a03",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Home workout routines for fitness",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "78c3febb-25ce-44bd-85e8-d0ad862c5418",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "dd06f518-83d7-4832-993e-b00a34c3f808",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d8dd8e2f-6547-4cd0-9c5c-87684187ac73",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8d980027-70b7-46e1-b689-d478ed85358c",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a55dc4a9-639a-4af3-b629-d312e4d8dfc0",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "02b3a60a-757f-4e80-9d20-061d255a04cd",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "62ab0ef4-b581-4273-9add-c67f8e259c4e",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "888a85d0-fcc8-4940-94e9-9f8a13a10656",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3b4d0659-04df-45d4-9a66-a7682ccd7fd5",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4a6ea834-fb5c-4b49-85d4-042a824529ce",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What are hydration tips?",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "fbe65d3f-7776-4a1a-a149-4b2ca72bf7d9",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "c0075e31-b95c-475c-a298-9b01b5c8aa5c",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "d8294231-1ff9-424e-aeaf-9ef0d2eaee27",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "25cb4f2f-3006-439a-9995-53f6cbd4e8b9",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "078948fb-8a04-4c7f-8ae9-48b041568e15",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "9d6538f8-16c6-4756-b3dd-3eb73c2c9e8d",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "adaf9b71-1465-41a2-8a73-2f85862d54e4",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "cf9687e9-e96c-4c1e-a896-ca7f67f69fd5",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "eb56388c-a2a3-443a-b341-039fb18bb76f",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "5d6a0d57-0a45-4aeb-b480-77d2ac4857b4",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 11
+      }
+    ]
+  },
+  {
+    "query": "Nutrition basics for beginners",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "828cfebf-c062-4a40-8a9a-c24abf705335",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "0ae07ca3-62a2-460f-9c83-0ef2d17889e5",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "757b858b-b7af-4fe6-908f-002276473858",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "cd4925b5-0afe-41b2-861d-d6d86669ba52",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "36f886fe-4277-4f2e-a682-7b3976037870",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "b27c3875-caaf-42c0-b5dd-5a1bfdb5e171",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "1996a634-314c-43d3-8a3c-221e4f2fecdd",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "40b9c961-787c-4306-a2ab-36c3033d6bcd",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "6702edbc-0839-4d53-a6c9-40aa9af40ebf",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "6593f527-f58c-46cf-beab-19893cba56ad",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 11
+      }
+    ]
+  },
+  {
+    "query": "How to manage work stress?",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "e1853111-1b73-494b-a7bf-dd74ee1eb0c1",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "13e6d4cd-14b1-41d1-b60c-649d56b43509",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bbb0db9d-a83b-4412-bce9-ba654a161fab",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4331e698-328e-46ae-b864-754ad3787d8b",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "83182061-3aa4-43e2-b640-55d39ee84b11",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "26363d9d-f02c-41a5-a99b-05dcd19e19c7",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e5ca39a1-795d-492c-b37e-7e03c5047e57",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "f7db3353-7a2e-4de3-a851-c7efde562aed",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "56d1e9c9-099d-4350-93d2-3e2dcdf8cf7a",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "91534b6b-2263-4012-b444-1321ed8d0259",
+        "title": "Managing work stress",
+        "category": "health",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "What is mindfulness meditation?",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "7a6f5658-ec57-4cc6-9f34-263a8b35f8fe",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "b578619b-90ca-4a0b-b59c-0a9d104feefe",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "521c460c-eea0-43ea-8e1f-72b17492d392",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "8af00993-9a49-4778-ae13-32da88a2945c",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "ca691dc0-38d8-4059-8a31-3f62b49ea3f8",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "64b9b0c2-6021-4fb9-b8d6-934ea2258023",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "017aaac4-d29d-4878-a140-f52f00a98768",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "43794e8e-38a1-476d-b799-be8689aa9b9c",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "598e3f18-8a2f-4297-a63a-7b9ce621b061",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "8ad9defc-e343-4a2f-919d-749d5d75267d",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 11
+      }
+    ]
+  },
+  {
+    "query": "Sleep hygiene tips",
+    "category": "health",
+    "expected_top_10": [
+      {
+        "doc_id": "4bd8673c-3692-4bd6-93b2-0ef11912fd22",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "78c3febb-25ce-44bd-85e8-d0ad862c5418",
+        "title": "Home workout routines",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "828cfebf-c062-4a40-8a9a-c24abf705335",
+        "title": "Nutrition basics",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "fbe65d3f-7776-4a1a-a149-4b2ca72bf7d9",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "04958d8f-2abc-4120-92c0-d7088827f802",
+        "title": "Importance of sleep",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "e31c7ecb-aca6-42d4-8751-d30afb2c3a4c",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "7a6f5658-ec57-4cc6-9f34-263a8b35f8fe",
+        "title": "Mindfulness practices",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "c0075e31-b95c-475c-a298-9b01b5c8aa5c",
+        "title": "Hydration tips",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "821885a8-011d-4090-839a-fe62987d97c3",
+        "title": "Understanding macros",
+        "category": "health",
+        "relevance_score": 0
+      },
+      {
+        "doc_id": "0c73b09a-186f-4584-a20b-f4eb19c939e2",
+        "title": "Preventing back pain",
+        "category": "health",
+        "relevance_score": 0
+      }
+    ]
+  },
+  {
+    "query": "Planning a weekend in Goa",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "03c1a3cc-bef4-4ff5-a067-c3a297558d96",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "71d2c982-1f90-4a71-a1ff-2fd20f3174c4",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8ab9aa91-3f3d-422a-a410-da80f8812553",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cc259f9c-3208-4573-858e-17ca1d9659d1",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "92b6e868-89e7-4ecc-99ea-4b54aaf9e2f6",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ce174d46-39f5-4c92-8f6d-8bbb6f5ff0b5",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6e1fa688-c427-4403-b9be-40bfb8cc606e",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1f4324fb-6db1-4dbe-bd58-696d765b3f0e",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b8de55c2-08b8-443b-b8e4-78b59c1772af",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a01614e4-7109-4e7b-b013-0065d3992a4e",
+        "title": "A weekend in Goa",
+        "category": "travel",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to pack light for long trips?",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "621c8607-4a23-4510-99a2-260fe2188a5b",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d360b3ff-4e55-4048-9442-f183a105f5dc",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "97c87c6b-4e45-4bbe-bf60-c1fc90c4d116",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a8fb864a-2b83-4979-b184-a0b8b552ae97",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e6af5509-98fe-43eb-8ccf-970c4f0b63e6",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "23e25563-3275-4b69-a15b-ca8fe85b25f0",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3256d813-ecdc-4c29-ba3a-fcc200c3a409",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "ae85d317-ae4b-44df-bfda-84d5027c5d54",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7e6c8c1b-3c7e-43e4-89cd-e729ae720b2d",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "dcd94eb1-9930-4281-9e0f-311a606184bf",
+        "title": "Packing light for long trips",
+        "category": "travel",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Train travel tips in India",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "2b0ca7ce-a36c-49dd-8192-5b0ce8bdcbb0",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fbfd5552-468d-4938-8d47-5a084e59e4a2",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "41d39962-1252-40c9-a290-f94f3ed815fd",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "c0dbd574-951c-4984-9b03-a4a826683026",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e31d1786-0d79-4ce5-9400-20daaf974bc9",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "7ecc8af5-f225-4e7c-b21d-2a55c301a2fd",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "3f231de0-a2a3-490d-9535-45561d22f88c",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9b1841df-0b28-40e0-a6cf-fa567fafb37c",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5d760440-c22b-4cd4-b431-1215ea47607f",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "6b7ae16c-aea4-478b-add8-6a069aae3a2e",
+        "title": "Train travel in India",
+        "category": "travel",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Backpacking in the Himalayas guide",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "2d3f4ac4-bf25-4a45-b603-fef8a47c8a51",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "35bbe80b-0ed2-4019-9c48-1671e528a2e7",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "9ca607fb-4f9a-4bdc-92f0-bc07207041cd",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "8d4e3d36-de5d-4532-a504-1aa7a7a7b0c1",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d14d18a9-ae40-4263-b8ce-0e0c21731896",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "22aeb58a-c738-457e-b7d1-631d32ea76e2",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "b5b80047-ecde-4982-8613-0c17da41a482",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "07b83bbb-ac10-466f-a113-d38b3a6372a6",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "54165ec4-4c22-46ec-84a7-b0b9d971ee18",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "58dc8760-212d-4ccc-b33b-0fd6bcfc1fbe",
+        "title": "Backpacking in the Himalayas",
+        "category": "travel",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "How to plan a road trip?",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "42c0c8f4-7eab-4368-bb05-93ffad72e4c8",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bc0ed1b6-6c75-4706-9cc3-c54bbeda8dae",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a04fae96-7165-4cc6-99ce-26d3d47c8f63",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "e0ad4143-ddaa-4498-8f05-322974ca1dd5",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "0c603b77-8868-41d8-8c5a-86d2ac8f6abc",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "394e415c-f6a4-46d3-bbc3-aa960a1f0179",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d8cba574-973d-4c1d-9a97-cd2faeb5b839",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "4e7ad2b3-d0fb-40ae-91fc-380695aa3836",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "bc5bb223-9763-4d8b-a9f1-c8656ee4e383",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "1a8e4c0f-ea8e-42a4-83fa-7199720c530f",
+        "title": "Planning a road trip",
+        "category": "travel",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Cultural etiquette when traveling",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "00644f37-b53d-470f-99bd-2e8ffbb43358",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "cedb195a-8385-4e90-bc0a-46f307ff4504",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "464eb720-6b79-43bb-a48c-00bcc3dafc02",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "184453c4-a598-406e-bbc8-66ba4d93310d",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "5071c7e2-726b-467a-bb87-69321852f6d0",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "fb557fab-46bd-4f13-a217-907f5f40d5f8",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "a4edbc76-7c24-4463-a2f7-8bcb2fee406c",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "971d972d-548b-4ffa-8475-34b7304d1fa5",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "d1848990-ebf0-4a0b-8352-5b1ace23d4c6",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      },
+      {
+        "doc_id": "36347f89-1b11-4e40-8acb-a17e78c26eb5",
+        "title": "Cultural etiquette guide",
+        "category": "travel",
+        "relevance_score": 22
+      }
+    ]
+  },
+  {
+    "query": "Budget travel tips",
+    "category": "travel",
+    "expected_top_10": [
+      {
+        "doc_id": "b7b17f45-2d53-4e57-b955-24d8482d0675",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "310559fb-e348-484c-a7d4-b883f8a66006",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "74e3814e-b439-42da-ba8d-92744aedf8f6",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "2a293973-9358-4444-bdd4-b61e41c04a13",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "00c14323-64f7-4230-9147-cdb702aa613e",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "3774d57c-8fff-4e62-913c-a05ba06af849",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "12d7bb61-7aea-4536-9eee-9f30b97928da",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "8379b66c-a60e-46fe-983b-4328cd639b89",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "c0d13cbf-b7ba-443b-8494-c79985dd48d3",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      },
+      {
+        "doc_id": "89bc9fbf-1ce5-4ea7-bffa-a10be3ad3e2b",
+        "title": "Budget travel tips",
+        "category": "travel",
+        "relevance_score": 11
+      }
+    ]
+  }
+]

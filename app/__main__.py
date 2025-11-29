@@ -9,9 +9,11 @@ from app.api import index as index_router
 from app.api import ingest as ingest_router
 from app.api import search as search_router
 from app.api import faiss as faiss_router
+from app.api import qdrant as qdrant_router
 from app.core.config import settings
 from app.clients.opensearch_client import create_opensearch_client
 from app.db.mongo_client import MongoClientWrapper
+from qdrant_client import QdrantClient
 import os
 import logging
 
@@ -19,19 +21,24 @@ logging.basicConfig(level=settings.LOG_LEVEL)
 logger = logging.getLogger("rag-boilerplate")
 
 def create_app() -> FastAPI:
-    app = FastAPI(title="RAG Boilerplate (OpenSearch + FAISS API)", version="0.1.0")
+    app = FastAPI(title="RAG Boilerplate (OpenSearch + FAISS + Qdrant API)", version="0.1.0")
 
     # Startup event
     @app.on_event("startup")
     async def startup_event():
-        logger.info("Starting up... creating OpenSearch client and MongoDB client")
+        logger.info("Starting up... creating OpenSearch, MongoDB, and Qdrant clients")
         app.state.opensearch_client = create_opensearch_client()
         app.state.mongo_client = MongoClientWrapper()
+        app.state.qdrant_client = QdrantClient(
+            host=settings.QDRANT_HOST,
+            port=settings.QDRANT_PORT
+        )
 
         app.include_router(index_router.router, prefix="/api/index", tags=["index"])
         app.include_router(ingest_router.router, prefix="/api/ingest", tags=["ingest"])
         app.include_router(search_router.router, prefix="/api/search", tags=["search"])
         app.include_router(faiss_router.router, prefix="/api/faiss", tags=["faiss"])
+        app.include_router(qdrant_router.router, prefix="/api/qdrant", tags=["qdrant"])
 
     # Shutdown event
     @app.on_event("shutdown")

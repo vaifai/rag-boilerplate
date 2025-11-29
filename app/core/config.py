@@ -36,5 +36,9 @@ class Settings(BaseSettings):
     OLLAMA_GENERATE_API: str = os.getenv("OLLAMA_GENERATE_API", "http://localhost:11434/api/generate")
     OLLAMA_GENERATE_MODEL: str = os.getenv("OLLAMA_GENERATE_MODEL", "llama3.2:latest")
 
+    # Qdrant
+    QDRANT_HOST: str = os.getenv("QDRANT_HOST", "localhost")
+    QDRANT_PORT: int = int(os.getenv("QDRANT_PORT", 6333))
+
 
 settings = Settings()
