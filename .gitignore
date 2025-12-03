@@ -42,3 +42,6 @@ docker-compose.override.yml
 experiments/results/
 datasets/*.parquet
 docker
+
+# Special files
+**evaluate_metrics.py

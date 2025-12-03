@@ -31,7 +31,7 @@ Give a concise, factual answer.
         }
 
         try:
-            r = requests.post(self.api_url, json=payload, timeout=120)
+            r = requests.post(self.api_url, json=payload, timeout=300)
             r.raise_for_status()
             data = r.json()
             return data.get("response", "")

@@ -34,7 +34,7 @@ class Settings(BaseSettings):
 
     # Retrieval and Search
     OLLAMA_GENERATE_API: str = os.getenv("OLLAMA_GENERATE_API", "http://localhost:11434/api/generate")
-    OLLAMA_GENERATE_MODEL: str = os.getenv("OLLAMA_GENERATE_MODEL", "llama3.2:latest")
+    OLLAMA_GENERATE_MODEL: str = os.getenv("OLLAMA_GENERATE_MODEL", "llama3.1:8b")
 
     # Qdrant
     QDRANT_HOST: str = os.getenv("QDRANT_HOST", "localhost")
